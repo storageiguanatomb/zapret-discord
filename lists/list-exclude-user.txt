@@ -1,0 +1,2 @@
+domain.example.abc
+# storageiguanatomb/zapret-discord 62cc87b9de8f
